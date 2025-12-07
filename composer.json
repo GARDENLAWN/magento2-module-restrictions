@@ -1,5 +1,5 @@
 {
-  "name": "inpost/magento2-module-restrictions",
+  "name": "gardenlawn/magento2-module-restrictions",
   "description": "Module allows for configuration of restrictions for products not handled by InPost Pay.",
   "version": "2.4.0",
   "type": "magento2-module",
