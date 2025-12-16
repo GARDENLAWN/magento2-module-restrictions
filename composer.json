@@ -13,7 +13,7 @@
     "psr/log": "*",
     "magento/module-ui": "*",
     "magento/module-catalog-rule": "*",
-    "hyva-themes/magento2-theme-module": "^1.3.11"
+    "hyva-themes/magento2-theme-module": "*"
   },
   "autoload": {
     "files": [
